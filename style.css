@@ -1,0 +1,26 @@
+html {
+    background-color: rgb(177, 177, 177);
+}
+
+.encabezado {
+    color: rgb(7, 109, 114);
+    font-size: 2.5rem;
+}
+
+#elemento-1 {
+    color: rgb(240, 21, 21);
+}
+
+ul#elemento-1 {
+    color: rgb(240, 21, 21);
+    font-size: 2rem;
+}
+
+.articles {
+    border: solid 5px black;
+    margin-top: 10px;
+}
+
+.markets {
+    border: solid 5px black
+}
